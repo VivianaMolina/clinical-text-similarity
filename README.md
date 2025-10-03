@@ -8,13 +8,13 @@ _Detecting Similarity and Key Terms in Brief Clinical Texts._
 
 # 📋 Table of Contents
 
-- [🚀 Features](#-features)
-- [📦 Requirements](#-requirements)
-- [🚀 How to Run](#-how-to-run)
-- [📚 NLP Definition](#-nlp-definition)
-- [📚 BoW](#-bow)
-- [📚 TF-IDF](#-tf-idf)
-- [📈 Key Learnings](#-key-learnings)
+- [🚀 Features](#features)
+- [📦 Requirements](#requirements)
+- [🚀 How to Run](#how-to-run)
+- [📚 NLP Definition](#nlp-definition)
+- [📚 BoW](#bow)
+- [📚 TF-IDF](#tf-idf)
+- [📈 Key Learnings](#key-learnings)
 
 ## Features
 
